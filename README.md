@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 A passionate Software Engineer & Frontend Developer
-- 🌱 Currently expanding my skills in **Web development, Software engineering and other tech stuff*
+- 🌱 Currently expanding my skills in **Web development, Software engineering and other tech stuff**
 - 💡 Exploring **Machine learning**
 - 🏆 **Red Hat Certified System Administrator (RHCSA)**
 - 😄 Pronouns: She/her
