@@ -21,6 +21,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![](https://komarev.com/ghpvc/?username=Sanakhansk)
+
+
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khansanask)
