@@ -18,9 +18,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sanakhansk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false)
 
+
+#GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+# Views
 ![](https://komarev.com/ghpvc/?username=Sanakhansk)
 
 
