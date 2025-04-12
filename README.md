@@ -7,7 +7,7 @@
 - 🏆 **Red Hat Certified System Administrator (RHCSA)**
 - 😄 Pronouns: She/her
 
-[![trophy](https://github-profile-trophy.vercel.app/?Sanakhansk=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
