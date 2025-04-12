@@ -19,7 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false)
 
 
-#GitHub Trophies:
+# GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Views
