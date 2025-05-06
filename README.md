@@ -1,7 +1,7 @@
  Hello there 👋
 
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmg5c3dqM3h2aGlqZDR0eWY3Y2VxcTFvbzFzcTNsb2liM2FsZ2x1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]"/>
 </div>
 
 ## 🚀 About Me
