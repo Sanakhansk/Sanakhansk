@@ -1,8 +1,6 @@
  Hello there 👋
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]"/>
-</div>
+
 
 ## 🚀 About Me
 - 🎓 A passionate Software Engineer & Frontend Developer
