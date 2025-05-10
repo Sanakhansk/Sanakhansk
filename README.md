@@ -21,10 +21,10 @@
 
 
 
-# GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
+# GitHub Trophies:[
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=Sanakhansk&title=Stars,MultiLanguage,Commits,Repositories,Experience,PullRequest)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # Views
