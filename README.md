@@ -14,14 +14,14 @@
 
 
 
- ## 📊 GitHub Stats:
+ ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sanakhansk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false)
 
 
 
 
-# GitHub Trophies:[
+# GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk&title=Stars,MultiLanguage,Commits,Repositories,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)]
 
 
