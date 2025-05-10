@@ -22,7 +22,9 @@
 
 
 # GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # Views
