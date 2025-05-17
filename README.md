@@ -1,6 +1,6 @@
  Hello there 👋
+![snake gif](https://raw.githubusercontent.com/Sanakhansk/Sanakhansk/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/Sanakhansk/Sanakhansk/blob/output/github-snake-dark.svg)
 
 ## 🚀 About Me
 - 🎓 A passionate Software Engineer & Frontend Developer
