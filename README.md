@@ -1,6 +1,9 @@
  Hello there 👋
 
-![snake gif](https://raw.githubusercontent.com/Sanakhansk/github-snake-dark.svg)
+### 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Sanakhansk/Sanakhansk/output/github-snake-dark.svg)
+
 
 
 ## 🚀 About Me
