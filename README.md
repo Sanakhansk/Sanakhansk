@@ -1,8 +1,5 @@
  Hello there 👋
 
-### 🐍 Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/Sanakhansk/Sanakhansk/output/github-snake-dark.svg)
 
 
 
