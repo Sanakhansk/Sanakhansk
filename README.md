@@ -36,6 +36,8 @@ Hello there :wave:
 
 
 
+## Random Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
@@ -46,10 +48,6 @@ Hello there :wave:
 
 
 
-## Random Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-🚀 **Let's build something amazing together!**
+ **Let's build something amazing together!**
 
 
