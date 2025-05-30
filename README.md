@@ -21,7 +21,7 @@ Hello there :wave:
  ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sanakhansk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false&height=20&width=20)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
 
