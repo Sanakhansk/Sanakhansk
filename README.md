@@ -48,6 +48,6 @@ Hello there :wave:
 
 
 
- **Let's build something amazing together!**
+
 
 
