@@ -1,6 +1,8 @@
 Hello there :wave:
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## 🚀 About Me
 - 🎓 A passionate Software Engineer & Frontend Developer
@@ -36,8 +38,6 @@ Hello there :wave:
 
 
 
-## Random Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
