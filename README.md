@@ -33,6 +33,7 @@ Hello there :wave:
 
 # Views
 ![](https://komarev.com/ghpvc/?username=Sanakhansk)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanakhansk&theme=dark)
 
 
 
