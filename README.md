@@ -1,3 +1,4 @@
+
 <div align="center">
 
 #  Hello there 👋 I'm Sana 🧑‍💻
@@ -9,7 +10,9 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
   </a>
 </div>
-
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=blue&style=for-the-badge" /> 
+</div>
 ## About Me
 - 🎓 A passionate Software Engineer
 - 🌱 Currently expanding my skills in **Web development, Software engineering and other tech stuff**
@@ -49,7 +52,6 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </div>
-
 
 
 
