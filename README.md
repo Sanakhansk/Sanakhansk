@@ -1,7 +1,14 @@
-Hello there :wave:
+<div align="center">
 
+#  Hello there 👋 I.m Sana 🧑‍💻
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</div>
 
 
 ## 🚀 About Me
