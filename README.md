@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hello there 👋 I.m Sana 🧑‍💻
+#  Hello there 👋 I'm Sana 🧑‍💻
 
 </div>
 
@@ -11,12 +11,12 @@
 </div>
 
 
-## 🚀 About Me
-- 🎓 A passionate Software Engineer & Frontend Developer
+## About Me
+- 🎓 A passionate Software Engineer
 - 🌱 Currently expanding my skills in **Web development, Software engineering and other tech stuff**
 - 💡 Exploring **Machine learning**
 - 🏆 **Red Hat Certified System Administrator (RHCSA)**
-- 😄 Pronouns: She/her
+
 
 ## Tech Stack                                     
 <p align="left">
