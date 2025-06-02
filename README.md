@@ -10,7 +10,6 @@
   </a>
 </div>
 
-
 ## About Me
 - 🎓 A passionate Software Engineer
 - 🌱 Currently expanding my skills in **Web development, Software engineering and other tech stuff**
@@ -27,7 +26,7 @@
 
 
 
- ## 📊 GitHub Stats
+ ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sanakhansk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false&height=20&width=20)
 
@@ -38,20 +37,24 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk&title=Stars,MultiLanguage,Commits,Repositories,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+#
+<div align="center">
+<a href="https://www.linkedin.com/in/khansanask">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Sanakhansk">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:your-khansana.ajmer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</div>
 
 
-# Views
-![](https://komarev.com/ghpvc/?username=Sanakhansk)
 
 
 
 
-
-
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khansanask)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]((https://github.com/Sanakhansk))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-khansana.ajmer@gmail.com)
 
 
 
