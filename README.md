@@ -7,7 +7,7 @@
 
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=beige&style=for-the-badge" /> 
+   <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=blue&style=for-the-badge" /> 
 </div>
 
 
