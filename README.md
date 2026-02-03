@@ -5,11 +5,7 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
-  </a>
-</div>
+
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=blue&style=for-the-badge" /> 
 </div>
@@ -40,10 +36,6 @@
 
 
 
-# GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanakhansk&title=Stars,MultiLanguage,Commits,Repositories,Experience,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 #
 <div align="center">
 <a href="https://www.linkedin.com/in/khansanask">
@@ -55,6 +47,13 @@
 <a href="mailto:your-khansana.ajmer@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
 </div>
 
 
