@@ -7,7 +7,7 @@
 
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=blue&style=for-the-badge" /> 
+   <img src="https://komarev.com/ghpvc/?username=Sanakhansk&color=grey&style=for-the-badge" /> 
 </div>
 
 
@@ -49,7 +49,7 @@
 </a>
 </div>
 
-
+#
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
