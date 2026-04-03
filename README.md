@@ -27,10 +27,7 @@
 
 
 
- ## GitHub Stats
-| GitHub Stats | Streak Stats |
-| ------------ | ------------ |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanakhansk&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sanakhansk&theme=dark&hide_border=false) |
+
 
 
 
